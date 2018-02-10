@@ -7,7 +7,7 @@ from email import encoders
 
 
 
-msg = MIMEMultipart()                                                       #inistaliz the protocol MIME
+msg = MIMEMultipart()                                                       
 
 msg['From'] = 'yourEmail@gmail.com'
 msg['Subject'] = 'Demande de khedma!!!!'
